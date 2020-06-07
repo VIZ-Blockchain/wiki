@@ -15,11 +15,11 @@
 * [HardForks](developers/hardforks.md)
 * [Руководства \(HOWTO\)](developers/howto.md)
 
-## Делегатам <a id="witnesses-1"></a>
+## Делегатам <a id="witnesses"></a>
 
-* [Делегатство и роли нод](witnesses-1/basics.md)
-* [Установка ноды](witnesses-1/node.md)
-* [Медианные параметры](witnesses-1/median-props.md)
+* [Делегатство и роли нод](witnesses/basics.md)
+* [Установка ноды](witnesses/node.md)
+* [Медианные параметры](witnesses/median-props.md)
 
 ## Полезное <a id="useful"></a>
 
