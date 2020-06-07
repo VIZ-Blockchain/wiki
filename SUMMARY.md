@@ -24,4 +24,6 @@
 ## Полезное <a id="useful"></a>
 
 * [Untitled](useful/untitled.md)
+* [Ropox.app](https://ropox.app/vizworld/schedule)
+* [VIZ.Doc](https://viz-doc.readthedocs.io/ru/latest/)
 
