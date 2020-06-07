@@ -10,11 +10,11 @@
 
 * [Untitled](developers/untitled.md)
 
-## Делегатам
+## Делегатам <a id="witnesses-1"></a>
 
-* [Untitled](delegatam/untitled.md)
+* [Untitled](witnesses-1/untitled.md)
 
-## Полезное <a id="witnesses"></a>
+## Полезное <a id="useful"></a>
 
-* [Untitled](witnesses/untitled.md)
+* [Untitled](useful/untitled.md)
 
