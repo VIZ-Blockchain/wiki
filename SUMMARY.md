@@ -8,19 +8,19 @@
 * [Создание аккаунта](users/createaccount.md)
 * [Полезные посты](users/posts.md)
 
+## Предпринимателям <a id="business"></a>
+
+* [Как заработать в ВИЗе](business/how.md)
+* [Косвенный доход](business/capital.md)
+* [Комиссии](business/beneficiary.md)
+* [Подписка](business/subscribe.md)
+
 ## Разработчикам <a id="developers"></a>
 
 * [Основы](developers/basics.md)
 * [API-документация](developers/api.md)
 * [HardForks](developers/hardforks.md)
 * [Руководства \(HOWTO\)](developers/howto.md)
-
-## Предпринимателям <a id="business"></a>
-
-* [Как заработать в ВИЗе](business/how.md)
-* [Косвенный доход](business/capital.md)
-* [Бенефициарство и комиссии](business/beneficiary.md)
-* [Подписка](business/subscribe.md)
 
 ## Делегатам <a id="witnesses"></a>
 
