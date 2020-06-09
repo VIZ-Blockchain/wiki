@@ -5,7 +5,7 @@
 ## Пользователям <a id="users"></a>
 
 * [Начни отсюда](users/welcome.md)
-* [Способы регистрации](users/registration.md)
+* [Создание аккаунта](users/createaccount.md)
 * [Полезные посты](users/posts.md)
 
 ## Разработчикам <a id="developers"></a>
