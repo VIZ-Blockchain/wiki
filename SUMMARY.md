@@ -15,6 +15,13 @@
 * [HardForks](developers/hardforks.md)
 * [Руководства \(HOWTO\)](developers/howto.md)
 
+## Предпринимателям <a id="business"></a>
+
+* [Как заработать в ВИЗе](business/how.md)
+* [Косвенный доход](business/capital.md)
+* [Бенефициарство и комиссии](business/beneficiary.md)
+* [Подписка](business/subscribe.md)
+
 ## Делегатам <a id="witnesses"></a>
 
 * [Делегатство и роли нод](witnesses/basics.md)
