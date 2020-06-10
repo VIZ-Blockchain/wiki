@@ -1,6 +1,6 @@
 # Table of contents
 
-* [База знаний VIZ](README.md)
+* [База знаний ВИЗ](README.md)
 
 ## Пользователям <a id="users"></a>
 
