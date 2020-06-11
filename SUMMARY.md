@@ -5,7 +5,10 @@
 ## Пользователям <a id="users"></a>
 
 * [Начни отсюда](users/welcome.md)
+* [Основные понятия](users/basics.md)
 * [Создание аккаунта](users/createaccount.md)
+* [Как пользоваться ВИЗом](users/howtouse.md)
+* [Как увеличить капитал](users/socialcapital.md)
 * [Полезные посты](users/posts.md)
 
 ## Предпринимателям <a id="business"></a>
@@ -14,6 +17,7 @@
 * [Косвенный доход](business/kosvennyi-dokhod.md)
 * [Комиссии](business/komissii.md)
 * [Подписка](business/podpiska.md)
+* [Фонд ДАО](business/funddao.md)
 
 ## Разработчикам <a id="developers"></a>
 
