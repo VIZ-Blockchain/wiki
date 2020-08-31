@@ -14,10 +14,6 @@
 ## Предпринимателям <a id="business"></a>
 
 * [Как заработать в ВИЗе](business/kak-zarabotat-v-vize.md)
-* [Косвенный доход](business/kosvennyi-dokhod.md)
-* [Комиссии](business/komissii.md)
-* [Подписка](business/podpiska.md)
-* [Фонд ДАО](business/funddao.md)
 
 ## Разработчикам <a id="developers"></a>
 
@@ -34,6 +30,5 @@
 
 ## Полезное <a id="useful"></a>
 
-* [Ropox.App](https://ropox.app/vizworld/schedule)
 * [Viz.Doc](https://viz-doc.readthedocs.io/ru/latest/)
 
