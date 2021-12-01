@@ -31,4 +31,3 @@ Of course, everyone understands the words «benefit» and «pleasure» in their 
 You can also increase your social capital faster: just buy as many viz as you want and transfer them to social capital. This method is suitable, for example, for not very socially active people, as well as those who want to reward large amounts right away, or businesses to encourage their customers.
 
 The addresses of online stores, exchanges and exchangers where you can buy vizs, you will find on the sites dedicated to VIZ and VIZ Ecosystem.
-
