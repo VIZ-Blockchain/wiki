@@ -6,31 +6,29 @@ The VIZ economy mainly serves the activity of people not related to making money
 
 VIZ delegates are people or groups of people who contain servers with VIZ blockchain nodes, and also determine the parameters of the blockchain operation. The «delegate» in VIZ is essentially an analogue of the concepts of «block producer», «miner» or «validator» in other blockchains.
 
-Delegate activity is automatically rewarded from the issue. The amount of remuneration depends on the number of signed blocks, de facto - on the delegate's place in the general list of delegates sorted by the votes cast for them by VISA participants. Delegates from the top 11 participate in the signing of each block, their remuneration is maximum, the other delegates sign the fewer blocks, the less social capital voted for them.
+Delegate activity is automatically rewarded from the issue. The amount of remuneration depends on the number of signed blocks, de facto - on the delegate's place in the general list of delegates sorted by the votes cast for them by VIZ participants. Delegates from the top 11 participate in the signing of each block, their remuneration is maximum, the other delegates sign the fewer blocks, the less social capital voted for them.
 
-Делегатская деятельность автоматически вознаграждается из эмиссии. Размер вознаграждения зависит от количества подписанных блоков, де-факто - от места делегата в общем списке делегатов, отсортированном по отданным за них голосам участников ВИЗа. Делегаты из топ-11 участвуют в подписании каждого блока, их вознаграждение максимально, остальные делегаты подписывают тем меньше блоков, чем меньше социального капитала за них проголосовало.
+> Example. As of August 2020, 20% of the issue goes to the remuneration of delegates. Each top delegate earns 143.5 vizes per day in the absence of missed blocks.
 
-> Пример. По состоянию на август 2020 года на вознаграждение делегатов идёт 20% эмиссии. Каждый топ-делегат при отсутствии пропущенных блоков зарабатывает 143,5 виза в сутки.
+## DAO Fund
 
-## Фонд ДАО
+Activities that are useful for the entire VIZ community are funded from the **VIZ DAO Development Fund** («DAO Fund»), which is constantly replenished with vizes due to the issue. Any VIZ participant who has done something useful can apply to the Fund for compensation or encouragement. The community votes on the application, while the weight of each participant's vote is proportional to his social capital, and determines the amount of payment in vizes.
 
-Деятельность, полезная для всего сообщества ВИЗа, финансируется из **Фонда развития ДАО ВИЗ** \(«Фонд ДАО»\), который постоянно пополняется визами за счёт эмиссии. Любой участник ВИЗа, сделавший что-то полезное, может подать заявку в Фонд на выплату компенсации или поощрения. Сообщество голосует по заявке, при этом вес голоса каждого участника пропорционален его социальному капиталу, и определяет сумму выплаты в визах.
+Investors can finance with money the development of useful VIZ applications, advertising, any other initiatives and request compensation with vizes from the Fund. At the same time, the amount of compensation can be any, as long as the community agrees with it. As a result, an investor can receive a significant amount of money at a favorable price, simultaneously benefiting the community and increasing the value of the asset.
 
-Инвесторы могут профинансировать деньгами разработку полезных приложений для ВИЗа, рекламу, любые другие инициативы и запросить компенсацию визами из Фонда. При этом сумма компенсации может быть любой, лишь бы сообщество с ней согласилось. В результате, инвестор может получить значительное количество визов по выгодной цене, попутно принеся пользу сообществу и увеличив ценность актива.
+Also, the DAO Fund can pay for non-commercial and useful activities for the entire community, for example, the content of information sites, bots in social networks and messengers or public nodes.
 
-Также из Фонда ДАО может оплачиваться некоммерческая и полезная для всего сообщества деятельность, например, содержание информационных сайтов, ботов в соцсетях и мессенджерах или публичных нод.
+## Commissions
 
-## Комиссии
+The VIZ blockchain code includes the possibility of automatically charging a commission from awards. Such commissions are called «beneficial payments» and are calculated as a fraction of the amount of the reward that one user awarded to another.
 
-В коде блокчейна VIZ заложена возможность автоматического взимания комиссии от наград \(авардов\). Такие комиссии называются «бенефициарные выплаты» и вычисляются как доля от размера награды, которой один пользователь наградил другого.
+The service that created this or that context for the award can receive beneficial payments from its users, sell the received vizes and pay for hosting services, employee salaries, etc.
 
-Сервис, создавший тот или иной контекст для награждения, может получать бенефициарные выплаты от своих пользователей, продавать полученные визы и оплачивать услуги хостинга, зарплаты сотрудников и т.п.
+> Example. You own a site where the content is generated by users. You connect a script to the site to reward users with vizes for content (analogous to likes) and set a commission of 10% of all awards passing through your site. Users reward each other using their social capital, and you automatically, at the blockchain level, receive a commission from each award.
 
-> Пример. Вы владеете сайтом, на котором контент генерируется пользователями. Вы подключаете к сайту скрипт для награждения пользователей визами за контент \(аналог лайков\) и закладываете комиссию в 10% от всех наград, проходящих через ваш сайт. Пользователи награждают друг друга с использованием своего социального капитала, а вы автоматически, на уровне блокчейна, получаете комиссию с каждой награды.
+## Subscription
 
-## Подписка
+The VIZ blockchain supports not only rewards from the issue, but also direct payment or donation of accounts with vizes. In addition to the usual transfers from account to account, VIZ has a built-in system of subscriptions or recurrent payments.
 
-Блокчейн VIZ поддерживает не только награды из эмиссии, но и прямую оплату или донат аккаунтов визами. Помимо обычных переводов с аккаунта на аккаунт в ВИЗе реализована встроенная система подписок или рекуррентных \(повторяющихся\) платежей.
-
-Предприниматель может создать любой сервис, обслуживающий участников ВИЗа и принимающий в качестве регулярной оплаты токены viz. Перед предоставлением услуги сервис проверяет в блокчейне, есть ли у данного пользователя активная подписка. При этом не требуется обращаться к каким-либо посредникам, так как система децентрализована и работает непосредственно в блокчейне.
+An entrepreneur can create any service that serves VIZ participants and accepts viz tokens as a regular payment. Before providing the service, the service checks in the blockchain whether this user has an active subscription. At the same time, it is not necessary to contact any intermediaries, since the system is decentralized and works directly in the blockchain.
 
