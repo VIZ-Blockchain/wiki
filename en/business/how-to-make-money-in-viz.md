@@ -1,10 +1,12 @@
-# Как заработать в ВИЗе
+# How to make money in VIZ
 
-Экономика ВИЗа в основном обслуживает активность людей, не связанную с зарабатыванием денег, поэтому понятие «заработать в ВИЗе» имеет не очень много смысла. Тем не менее, у предпринимателей, разработчиков и инвесторов есть возможность заработать _на обслуживании пользователей_ ВИЗа и создании сервисов для них.
+The VIZ economy mainly serves the activity of people not related to making money, so the concept of «making money in VIZ» does not make much sense. Nevertheless, entrepreneurs, developers and investors have the opportunity to earn money by *servicing VIZ users* and creating services for them.
 
-## Делегатство
+## Delegation
 
-Делегаты ВИЗа - это люди или группы людей, которые содержат серверы с нодами блокчейна VIZ, а также определяют параметры работы блокчейна. «Делегат» в ВИЗе - в существенной степени аналог понятий «блокпродюсер», «майнер» или «валидатор» в других блокчейнах.
+VIZ delegates are people or groups of people who contain servers with VIZ blockchain nodes, and also determine the parameters of the blockchain operation. The «delegate» in VIZ is essentially an analogue of the concepts of «block producer», «miner» or «validator» in other blockchains.
+
+Delegate activity is automatically rewarded from the issue. The amount of remuneration depends on the number of signed blocks, de facto - on the delegate's place in the general list of delegates sorted by the votes cast for them by VISA participants. Delegates from the top 11 participate in the signing of each block, their remuneration is maximum, the other delegates sign the fewer blocks, the less social capital voted for them.
 
 Делегатская деятельность автоматически вознаграждается из эмиссии. Размер вознаграждения зависит от количества подписанных блоков, де-факто - от места делегата в общем списке делегатов, отсортированном по отданным за них голосам участников ВИЗа. Делегаты из топ-11 участвуют в подписании каждого блока, их вознаграждение максимально, остальные делегаты подписывают тем меньше блоков, чем меньше социального капитала за них проголосовало.
 
